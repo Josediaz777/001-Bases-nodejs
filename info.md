@@ -2,4 +2,4 @@
 
 -Instalar Node
 -Programar el codigo
--Correr el proyecto con nodemon
+-Correr el proyecto con nodemon y node
